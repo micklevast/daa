@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "iostream": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "initializer_list": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "iterator": "cpp",
+    "list": "cpp"
+  }
+}
